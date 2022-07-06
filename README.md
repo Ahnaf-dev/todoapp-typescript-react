@@ -1,3 +1,11 @@
+# todoApp Features
+
+site: https://superlative-capybara-ac42c3.netlify.app/
+
+- built with react and typescript
+- CRUD applications with todolist
+- strict props and useState using typescript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
